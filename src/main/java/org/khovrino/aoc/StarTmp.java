@@ -13,7 +13,7 @@ import static java.lang.Math.*;
 import static java.util.Arrays.*;
 import static java.util.Collections.*;
 
-public class Star19 {
+public class StarTmp {
 
     public static final String REAL_INPUT_FILEPATH = "C:\\Users\\egor\\Downloads\\input.txt";
     public static final String EXAMPLE_INPUT_FILEPATH = "C:\\Users\\egor\\Downloads\\example.txt";
